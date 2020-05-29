@@ -3,9 +3,9 @@
 
 # This sample relies on environment variables for connectivity to Twistlock
 
-TL_USER:  4f81af41-ef5e-4f52-b9de-597fb57b5c33
-TL_PASS:  MuXXZkOeU+cwsm3+2Q7D9aKG15I=
-TL_CONSOLE_URL:  https://us-east1.cloud.twistlock.com/us-1-111573457
+# TL_USER:  4f81af41-ef5e-4f52-b9de-597fb57b5c33
+# TL_PASS:  MuXXZkOeU+cwsm3+2Q7D9aKG15I=
+# TL_CONSOLE_URL:  https://us-east1.cloud.twistlock.com/us-1-111573457
 
 # First, build our image
 # Use a Linux-based agent such as Ubuntu 16.04
